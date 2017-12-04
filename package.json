@@ -4,7 +4,8 @@
   "description": "IMAP server for real usage, inspired by Haraka for SMTP and descended from Hoodiecrow",
   "main": "lib/server.js",
   "scripts": {
-    "test": "grunt"
+    "test": "grunt",
+    "thunderbird": "./tb_debug"
   },
   "bin": {
     "imapper": "./bin/imapper"

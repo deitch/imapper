@@ -1,0 +1,4 @@
+#!/bin/sh
+export NSPR_LOG_MODULES=imap:5,timestamp
+export NSPR_LOG_FILE=/tmp/imap.log
+/Applications/Thunderbird.app/Contents/MacOS/thunderbird-bin &
