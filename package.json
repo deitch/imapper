@@ -1,7 +1,7 @@
 {
   "name": "imapper",
-  "version": "0.6.0",
-  "description": "IMAP server for real usage, inspired by Haraka for SMTP and descended from Hoodiecrow",
+  "version": "0.7.0",
+  "description": "IMAP server for real usage, Fork of deitch/imapper",
   "main": "lib/server.js",
   "scripts": {
     "test": "grunt"
@@ -33,6 +33,6 @@
     "moment": "^2.10.6",
     "sinon": "^1.17.2"
   },
-  "author": "Avi Deitcher http://github.com/deitch",
+  "author": "Courtney Walker",
   "license": "MIT"
 }
